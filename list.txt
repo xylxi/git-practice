@@ -12,6 +12,4 @@ master
 2
 3
 4
-=======
-feature2
->>>>>>> 12efd715d7e9b3afbee79f7fd9a1e4e8c04b4280
+对
